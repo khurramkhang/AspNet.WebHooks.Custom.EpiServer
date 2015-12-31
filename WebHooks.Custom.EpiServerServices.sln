@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebHooks.Custom.EpiServerServices", "WebHooks.Custom.EpiServerServices\WebHooks.Custom.EpiServerServices.csproj", "{923EEF3B-A308-44AC-B9E6-4F5BAFE94EE0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNet.WebHooks.Custom.EpiServerStorage", "AspNet.WebHooks.Custom.EpiServerStorage\AspNet.WebHooks.Custom.EpiServerStorage.csproj", "{F606EC13-5EAA-41DD-BCBF-C2C015B4F3F2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNet.WebHooks.Custom.EpiServerRegistration", "AspNet.WebHooks.Custom.EpiServerRegistration\AspNet.WebHooks.Custom.EpiServerRegistration.csproj", "{9E242B6F-A99C-4958-BB9F-5CC53B0F5C17}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{923EEF3B-A308-44AC-B9E6-4F5BAFE94EE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923EEF3B-A308-44AC-B9E6-4F5BAFE94EE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{923EEF3B-A308-44AC-B9E6-4F5BAFE94EE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{923EEF3B-A308-44AC-B9E6-4F5BAFE94EE0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F606EC13-5EAA-41DD-BCBF-C2C015B4F3F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F606EC13-5EAA-41DD-BCBF-C2C015B4F3F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F606EC13-5EAA-41DD-BCBF-C2C015B4F3F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F606EC13-5EAA-41DD-BCBF-C2C015B4F3F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E242B6F-A99C-4958-BB9F-5CC53B0F5C17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E242B6F-A99C-4958-BB9F-5CC53B0F5C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E242B6F-A99C-4958-BB9F-5CC53B0F5C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E242B6F-A99C-4958-BB9F-5CC53B0F5C17}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
