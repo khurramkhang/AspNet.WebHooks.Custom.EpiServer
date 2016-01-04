@@ -8,8 +8,7 @@ namespace AspNet.WebHooks.Custom.EpiServerRegistration.Extensions
     public static class HttpConfigurationExtensions
     {
         /// <summary>
-        ///  Initializes support for registering and managing custom WebHooks through 
-        ///  a set of ASP.NET Web APIs.
+        ///  Initializes support for registering and managing custom WebHooks for using in EPiServer projects.
         /// </summary>
         /// <param name="config">The current <see cref="HttpConfiguration"/>config.</param>
         public static void InitializeEpiserverCustomWebHooksApis(this HttpConfiguration config)

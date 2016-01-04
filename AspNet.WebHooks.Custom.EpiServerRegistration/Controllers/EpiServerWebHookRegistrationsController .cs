@@ -16,7 +16,7 @@ using System.Web.Http.Description;
 namespace AspNet.WebHooks.Custom.EpiServerRegistration.Controllers
 {
     /// <summary>
-    /// The <see cref="WebHookRegistrationsController"/> allows the caller to create, modify, and manage WebHooks
+    /// The <see cref="EpiServerWebHookRegistrationsController"/> allows the caller to create, modify, and manage WebHooks
     /// through a REST-style interface.
     /// </summary>
     [Authorize]

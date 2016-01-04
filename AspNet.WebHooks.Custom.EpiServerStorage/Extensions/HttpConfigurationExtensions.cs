@@ -26,7 +26,6 @@ namespace AspNet.WebHooks.Custom.EpiServerStorage.Extensions
 
         /// <summary>
         /// Configures an EPiServer DDS Storage implementation of <see cref="IWebHookStore"/>
-        /// which provides a persistent store for registered WebHooks used by the custom WebHooks module.
         /// </summary>
         /// <param name="config">The current <see cref="HttpConfiguration"/>config.</param>
         public static void InitializeCustomWebHooksEPiServerStorage(this HttpConfiguration config)
