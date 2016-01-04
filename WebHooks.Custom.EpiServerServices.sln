@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNet.WebHooks.Custom.EpiS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNet.WebHooks.Custom.EpiServerRegistration", "AspNet.WebHooks.Custom.EpiServerRegistration\AspNet.WebHooks.Custom.EpiServerRegistration.csproj", "{9E242B6F-A99C-4958-BB9F-5CC53B0F5C17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNet.WebHooks.Custom.EpiServer.Test", "AspNet.WebHooks.Custom.EpiServer.Test\AspNet.WebHooks.Custom.EpiServer.Test.csproj", "{75E1D375-03BE-4978-955A-3D3BBF90C0CA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{9E242B6F-A99C-4958-BB9F-5CC53B0F5C17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9E242B6F-A99C-4958-BB9F-5CC53B0F5C17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9E242B6F-A99C-4958-BB9F-5CC53B0F5C17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{75E1D375-03BE-4978-955A-3D3BBF90C0CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75E1D375-03BE-4978-955A-3D3BBF90C0CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75E1D375-03BE-4978-955A-3D3BBF90C0CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75E1D375-03BE-4978-955A-3D3BBF90C0CA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
